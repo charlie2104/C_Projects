@@ -1,0 +1,1 @@
+Fectches time from a NTP server and displays it.

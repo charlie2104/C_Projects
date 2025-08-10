@@ -1,0 +1,1 @@
+C2 server and agent communicate on localhost. Only safe operations.

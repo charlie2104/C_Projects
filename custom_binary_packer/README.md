@@ -1,0 +1,1 @@
+Takes an executable and compresses it, then decompresses and runs.

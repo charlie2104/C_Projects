@@ -1,0 +1,1 @@
+Logs keystrokes from a sandboxed console window.

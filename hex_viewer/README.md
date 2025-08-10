@@ -1,0 +1,1 @@
+Reads a file and displays its contents in both hex and ASCII

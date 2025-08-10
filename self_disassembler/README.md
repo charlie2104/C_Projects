@@ -1,0 +1,1 @@
+Reads it's own machine code in memory and prints the opcodes in hex.

@@ -1,0 +1,1 @@
+Reimplement strlen, strcpy, strcmp from scratch

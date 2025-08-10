@@ -1,0 +1,1 @@
+Program changes its own harmless byte patterns on disk between runs.

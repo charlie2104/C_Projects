@@ -1,0 +1,1 @@
+Implementing RLE / Huffman encoding

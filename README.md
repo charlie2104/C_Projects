@@ -2,7 +2,7 @@
 One big repo of a load of C projects while I refigure out what I'm doing with C 
 
 ## List of projects and status                
-- [ ] [Hex viewer](./hex_viewer/)
+- [x] [Hex viewer](./hex_viewer/)
 - [ ] [Custom string library](./custom_string_library/)
 - [ ] [Memory Allocator Simulation](./memory_allocator_simulation/)
 - [ ] [File System Watcher](./file_system_watcher/)
